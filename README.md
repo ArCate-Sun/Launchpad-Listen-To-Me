@@ -9,7 +9,7 @@ This tool can help you let them go away!
 
 # REQUIREMENT
 
-* MacOS 10.15+ (Actually, maybe it can work well on lower MacOS, but there were no test.)
+* MacOS 10.15 (Actually, maybe it can work well on lower MacOS, but there are no test.)
 * Python3
 
 
