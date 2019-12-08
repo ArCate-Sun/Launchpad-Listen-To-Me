@@ -1,5 +1,5 @@
 
-from core.launchpad_manager import LaunchpadManager
+from launchpad_manager import LaunchpadManager
 
 
 class Menu:

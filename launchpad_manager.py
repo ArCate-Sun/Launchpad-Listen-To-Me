@@ -2,7 +2,7 @@ import os
 import shutil
 import sqlite3
 
-from core.launchpad_item import LaunchpadItem
+from launchpad_item import LaunchpadItem
 
 
 class LaunchpadManager:
