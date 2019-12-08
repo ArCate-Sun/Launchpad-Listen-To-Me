@@ -12,6 +12,15 @@ This tool can help you let them go away!
 * MacOS 10.15 (Actually, maybe it can work well on lower MacOS, but there are no test.)
 * Python3
 
+# USAGE
+
+* View the arrangement of the Launchpad
+* Remove unless icon from the Launchpad
+* Store and restore the arrangement of the Launchpad
+* Reset and Reboot the Launchpad
+
+![img](img.png)
+
 
 # HOW TO USE
 
