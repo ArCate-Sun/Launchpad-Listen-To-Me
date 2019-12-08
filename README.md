@@ -1,7 +1,7 @@
 Launchpad-Listen-To-Me for MacOS
 --------------------------------
 
-# DESCIPTION
+# DESCRIPTION
 
 Still bothering about the useless icons in launchpad?
 
